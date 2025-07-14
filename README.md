@@ -59,7 +59,8 @@ Login with your username and password (default user: `admin` / `password`).
 - Your messages and chatbot replies are saved in chat history.
 - Logout anytime using the provided link.
 
-
+## Example
+![Chatbot Example](Chatbot%20example.png)
 
 
 
