@@ -13,18 +13,18 @@ This is a **Chatbot Web Application** built with **Node.js** using the **MVC arc
 - Password hashing with `bcryptjs`
 
 ## Project Structure
-├── app.js # Main application entry point
-├── controllers/ # Controllers for auth and chat logic
-├── models/ # Data models (User, ChatHistory)
-├── routes/ # Express route definitions
-├── views/ # EJS templates for login, chat, error pages
-├── public/ # Static assets (CSS, JS)
-├── utils/ # API client and helper utilities
-├── middleware/ # Authentication middleware
-├── config/ # Configuration files (e.g., session)
-├── .env # Environment variables
-├── package.json # Project metadata and dependencies
-└── README.md # Project documentation
+├── app.js # Main application entry point  
+├── controllers/ # Controllers for auth and chat logic  
+├── models/ # Data models (User, ChatHistory)  
+├── routes/ # Express route definitions  
+├── views/ # EJS templates for login, chat, error pages  
+├── public/ # Static assets (CSS, JS)  
+├── utils/ # API client and helper utilities  
+├── middleware/ # Authentication middleware  
+├── config/ # Configuration files (e.g., session)  
+├── .env # Environment variables  
+├── package.json # Project metadata and dependencies  
+└── README.md # Project documentation  
 
 ## Prerequisites
 
