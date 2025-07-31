@@ -1,6 +1,7 @@
 # Node.js MVC Chatbot Web Application
 
-This is a **Chatbot Web Application** built with **Node.js** using the **MVC architecture**. It features user authentication and a chat interface that interacts with a Langgraph chatbot backend via RESTful API.
+This is a **Chatbot Web Application** built with **Node.js** using the **MVC architecture**. It features user authentication and a chat interface that interacts with a Langgraph chatbot backend via RESTful API.  
+The backend of chatbot can be found on [github link](https://github.com/chinhang0104/LangGraph-deploy).
 
 ## Features
 
